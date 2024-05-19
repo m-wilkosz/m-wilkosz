@@ -8,3 +8,5 @@ This is a starter for Nostr application.
 This is a clone of the twitter web app.
 ### [WayFinder](https://github.com/dstrzelbicki/WayFinder) ([repo](https://github.com/dstrzelbicki/WayFinder) | [demo](https://wayfinder.projektstudencki.pl))
 Final year team project. It is a web mapping app where you can flexibly plan your routes.
+### [YouTube knowledge assistant](https://github.com/m-wilkosz/yt-knowledge-assistant) ([repo](https://github.com/m-wilkosz/yt-knowledge-assistant) | [demo](https://yt-knowledge-assistant.streamlit.app/))
+Chat web app utilizing large language model. You can paste in URL of YouTube video and ask about its contents or read summary.
